@@ -20,7 +20,7 @@
     <a href="https://twitter.com/k5L07H" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
     </a>
-    <a href="/" target="_blank">
+    <a href="https://www.linkedin.com/in/bhavesh-mishra-a6951221b/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="mailto:thefool76@protonmail.com" target="_blank">
