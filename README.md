@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am bhavesh Mishra
 
 <!--
 **thefool76/thefool76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefool76&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefool76&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefool76&layout=compact&theme=radical)
