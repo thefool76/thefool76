@@ -32,7 +32,7 @@
     <summary>More about me</summary>
     <p>
         I'm a Computer Engineering student, extrovert and very observant. <br />
-        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
+        I'm currently contributing to the open source & putting the knowledge acquired into practise. I also help the guys who are starting programming in the communities.
     </p>
     <ul>
         <li>🔭 I’m currently working on my web Development skills</li>
