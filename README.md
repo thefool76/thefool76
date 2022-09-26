@@ -45,18 +45,7 @@
 
 
 
----
 
-<details>
-    <summary>My GitHub stats</summary>
-    <p align="center">
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=thefool76&theme=radical" alt="General Statistics" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefool76&layout=compact&theme=radical" alt="Techs used in projects" />
-    </p>
-</details>
 
 
 
