@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh mishra</h1>
-<h3 align="center">I'm a Computer Engineering student, extrovert and very observant. I'm currently contributing to the open source & putting the knowledge acquired into practise. I also help the guys who are starting programming in the communities.</h3>
+<h3 align="center">I'm a Geek, extrovert and very observant. I'm currently contributing to the open source & putting the knowledge acquired into practise. I also help the guys who are starting programming in the communities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefool76&label=Profile%20views&color=0e75b6&style=flat" alt="thefool76" /> </p>
 
