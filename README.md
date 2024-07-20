@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux,Anime,Keyboards.**
 
-- 📫 How to reach me **justadev1135@gmail.com**
+- 📫 How to reach me **heybhaveshmishra@gmail.com**
 
 - ⚡ Fun fact **I Sleep alot.**
 
